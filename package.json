@@ -1,6 +1,6 @@
 {
   "name": "sails-generate-models",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate sails models based on your database schema.",
   "main": "index.js",
   "bin": {
@@ -27,6 +27,7 @@
     "extend": "^3.0.0",
     "js-beautify": "^1.5.10",
     "knex": "^0.9.0",
-    "minimist": "^1.2.0"
+    "minimist": "^1.2.0",
+    "mysql": "^2.10.2"
   }
 }
