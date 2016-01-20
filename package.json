@@ -1,6 +1,6 @@
 {
   "name": "sails-generate-models",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Generate sails models based on your database schema.",
   "main": "index.js",
   "bin": {
