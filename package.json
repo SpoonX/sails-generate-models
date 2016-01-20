@@ -1,0 +1,32 @@
+{
+  "name": "sails-generate-models",
+  "version": "1.0.0",
+  "description": "Generate sails models based on your database schema.",
+  "main": "index.js",
+  "bin": {
+    "sails-generate-models": "./index.js"
+  },
+  "homepage": "https://github.com/SpoonX/sails-generate-models",
+  "bugs": {
+    "url": "https://github.com/SpoonX/sails-generate-models/issues"
+  },
+  "keywords": [
+    "sails",
+    "waterline",
+    "mysql",
+    "generate",
+    "model"
+  ],
+  "author": "RWOverdijk <wesley@spoonx.nl> (http://spoonx.nl/)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SpoonX/sails-generate-models"
+  },
+  "dependencies": {
+    "extend": "^3.0.0",
+    "js-beautify": "^1.5.10",
+    "knex": "^0.9.0",
+    "minimist": "^1.2.0"
+  }
+}
